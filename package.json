@@ -1,0 +1,15 @@
+{
+  "name": "electron-playground",
+  "version": "0.1.0",
+  "description": "An Electron Playground",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "git@github.com:MathieuDebit/electron-playground.git",
+  "author": "Mathieu Débit",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "~1.7.5"
+  }
+}
