@@ -2,7 +2,7 @@
   "name": "electron-playground",
   "version": "0.1.0",
   "description": "An Electron Playground",
-  "main": "main.js",
+  "main": "src/main.js",
   "scripts": {
     "start": "electron ."
   },
